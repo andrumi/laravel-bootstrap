@@ -34,13 +34,13 @@
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav me-auto">
                         <li class="nav-link">
-                            <a class="nav-link" href="">Heres</a>
+                            <a class="nav-link" href="">Home</a>
                         </li>
                         <li class="nav-link">
-                            <a class="nav-link" href="">Something</a>
+                            <a class="nav-link" href="">Dashborad</a>
                         </li>
                         <li class="nav-link">
-                            <a class="nav-link" href="">Else</a>
+                            <a class="nav-link" href="">Post</a>
                         </li>
                     </ul>
 
