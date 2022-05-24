@@ -33,7 +33,15 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav me-auto">
-
+                        <li class="nav-link">
+                            <a class="nav-link" href="">Heres</a>
+                        </li>
+                        <li class="nav-link">
+                            <a class="nav-link" href="">Something</a>
+                        </li>
+                        <li class="nav-link">
+                            <a class="nav-link" href="">Else</a>
+                        </li>
                     </ul>
 
                     <!-- Right Side Of Navbar -->
